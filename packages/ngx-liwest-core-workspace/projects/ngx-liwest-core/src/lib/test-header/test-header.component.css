@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 10px;
+  padding-inline: 20px;
+
+  width: 100%;
+  height: 100px;
+  background-color: lightblue;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+.logo-mock {
+  background: darkblue;
+  width: 20px;
+  height: 20px;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+}
+
+.user-container {
+  display: flex;
+  align-items: center;
+}

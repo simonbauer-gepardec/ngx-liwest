@@ -1,0 +1,24 @@
+{
+  "name": "@gepardec-simon-bauer/ngx-liwest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish-eslint-config": "npm publish --workspace @gepardec-simon-bauer/eslint-config",
+    "publish-prettier-config": "npm publish --workspace @gepardec-simon-bauer/prettier-config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonbauer-gepardec/ngx-liwest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonbauer-gepardec/ngx-liwest/issues"
+  },
+  "homepage": "https://github.com/simonbauer-gepardec/ngx-liwest#readme",
+  "workspaces": [
+    "packages/eslint-config",
+    "packages/prettier-config"
+  ]
+}

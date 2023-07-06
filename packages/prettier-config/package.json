@@ -1,0 +1,17 @@
+{
+  "name": "@gepardec-simon-bauer/prettier-config",
+  "version": "0.0.3",
+  "description": "",
+  "main": "prettier-config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "*"
+  }
+}
