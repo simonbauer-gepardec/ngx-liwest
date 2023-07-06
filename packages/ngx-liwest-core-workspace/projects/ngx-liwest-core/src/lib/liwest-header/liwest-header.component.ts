@@ -10,7 +10,7 @@ import {MatButtonModule} from '@angular/material/button';
   standalone: true,
   imports: [CommonModule, MatToolbarModule, MatIconModule, MatButtonModule],
   templateUrl: './liwest-header.component.html',
-  styleUrls: ['./liwest-header.component.css']
+  styleUrls: ['./liwest-header.component.scss']
 })
 export class LiwestHeaderComponent {
   @Input() applicationName!: string;

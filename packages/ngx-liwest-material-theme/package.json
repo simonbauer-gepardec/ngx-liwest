@@ -1,0 +1,17 @@
+{
+  "name": "@gepardec-simon-bauer/ngx-liwest-material-theme",
+  "version": "0.0.4",
+  "description": "",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "liwest-theme.scss"
+  ]
+}

@@ -19,6 +19,7 @@
   "homepage": "https://github.com/simonbauer-gepardec/ngx-liwest#readme",
   "workspaces": [
     "packages/eslint-config",
-    "packages/prettier-config"
+    "packages/prettier-config",
+    "packages/ngx-liwest-material-theme"
   ]
 }
