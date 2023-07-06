@@ -2,4 +2,5 @@
  * Public API Surface of ngx-liwest-core
  */
 
-export * from './lib/test-header/test-header.component'
+export * from './lib/liwest-header/liwest-header.component'
+
